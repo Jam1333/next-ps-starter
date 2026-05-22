@@ -1,0 +1,24 @@
+# Next.js Build Output
+/.next/
+/out/
+/build
+
+# Dependencies
+/node_modules/
+/.pnp
+.pnp.js
+
+# Environment Variables
+.env
+.env*.local
+
+# Debug and Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.turbo/
+
+# OS/Editor Specific
+.DS_Store
+.vscode/
+.idea/
